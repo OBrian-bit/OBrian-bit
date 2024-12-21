@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm O'Brian! 👋
 
-<!--
-**OBrian-bit/OBrian-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌍 Based in Barbados.
+- 💻 Passionate about robotics, AI, and innovative projects.
+- 🎮 Enjoy creating projects like **[Korea-Dataset](https://github.com/OBrian-bit/Korea-Dataset)**.
+- 📫 How to reach me: larry.mayers@protexxa-barbados.com.
 
-Here are some ideas to get you started:
+## My Work
+- 🚀 Exploring futuristic technology and mechatronics.
+- 📚 Developing solutions with a focus on AI and storytelling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Fun Facts
+- 🎥 I run **[Factubli](https://youtube.com/factubli)**, sparking curiosity through engaging facts.
+- 🧠 Interested in philosophy and psychology.
+
+---
+Thanks for stopping by my GitHub profile! 🚀
